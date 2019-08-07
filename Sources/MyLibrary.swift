@@ -8,5 +8,5 @@
 import Foundation
 
 public func hiThere() -> String {
-    return "Hello from the library! new update"
+    return "Hello from the library! new update slSADHLSAldhlasdl"
 }
